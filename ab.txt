@@ -1,0 +1,25 @@
+Sumar patternuri
+Creationale
+Singleton – obiect unic
+Factory (Simple Factory) – familie de obiecte, framework
+Factory method – proces de generare de obiecte care difera
+Builder – obiectul are mai multe atribute si un mecanism flexibil (detalii de constructie)
+Prototype – obiect costisitor la creare pe care vrem sa il refolosim intr-o instanta noua (keywords:  costisitor, reinstantiat, recopiat)
+Structurale
+Adapter – adapteaza interfata clasei noastre cu alta interfata
+•	adaptor obiect: adaptarea obiectelor existente la o noua interfata
+•	adaptor clasa: adaptare framework la noua clasa
+Composite – obiecte, familie formata in ierarhie, interdependenta (employee- subordinates)
+Decorator – atribuire, modificare functionalitate element deja existent la run-time
+Facade – simplificarea executiei (apelarea) unui scenariu complex; interfata simplificata pentru acele scenarii
+Flyweight – gestioneaza eficient mai multe instante (clone) ale unui set redus de modele; solutie eficienta asupra RAM-ului
+Proxy – definire intrefete intre frameworkuri diferite
+Comportamentale
+Strategy – schimbarea functionalitatii la run-time in sensul ca se alege ce functie sa se execute prin setarea unui obiect transmis ca parametru
+Observer -  executarea anumitor actiuni cand are loc un anumit eveniment; cuvant cheie: notificare
+Chain of responsability – evenimentele se proceseaza in functie de starea lor; o secventa de actiuni ce pot procesa un anumit eveniment; single responsibility principle
+Command – coada de mesaje; gestionare intarziere actiuni
+Memento – gestioneaza starile anterioare ale unui obiect
+State – masina de stari
+Template – sablon fix, secventa fixa
+
